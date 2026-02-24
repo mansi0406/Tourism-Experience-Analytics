@@ -1,0 +1,1 @@
+["UserId", "AttractionId", "AttractionTypeId_x", "CityId", "CountryId", "RegionId", "ContinentId", "month", "year", "user_total_visits", "user_avg_rating", "attraction_popularity", "season_autumn", "season_spring", "season_summer", "season_winter"]
