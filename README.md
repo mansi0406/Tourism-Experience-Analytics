@@ -76,6 +76,11 @@ streamlit run app.py
 - Additional page:
   - [Visit Mode Prediction.py](file:///c:/Users/HP/OneDrive/Desktop/data%20scientist/Labmentix%20Trainingship/Tourism%20Project/Tourism%20Dataset/pages/Visit%20Mode%20Prediction.py)
 
+
+
+![My Dashboard](Screenshot2026-02-24230233.png)
+
+![My Dashboard](Screenshott2026-02-24230407.png)
 ## EDA Outputs
 - Generated automatically to outputs/eda/:
   - rating_distribution.png
