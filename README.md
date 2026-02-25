@@ -78,9 +78,6 @@ streamlit run app.py
 
 
 
-![My Dashboard](Screenshot2026-02-24230233.png)
-
-![My Dashboard](Screenshott2026-02-24230407.png)
 ## EDA Outputs
 - Generated automatically to outputs/eda/:
   - rating_distribution.png
